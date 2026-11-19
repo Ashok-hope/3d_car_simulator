@@ -3,11 +3,7 @@ Alps to Tokyo Motor Club
 
 Extract the entire archive, then open index.html in a current Chrome or Edge.
 The game runs offline and uses WebGL 2. A first drive starts outside the garage in Chamonix.
-Choose Chandru or Lucia with the driver button at the lower left.
-Meet at the garage starts you on foot near the other character. Press F to talk,
-hug, kiss, or ask them to join a drive date. For a date, press E beside the Ferrari,
-Bugatti, or Hummer and wait for them to buckle in. Drive and stop anywhere you like.
-On foot, press F near them again to keep talking or end the date.
+
 Garage selects your vehicle.
 Follow the Tokyo signs at the village junction and continue over the connector into Tokyo.
 The dog walks along the pavement beside the garage.
