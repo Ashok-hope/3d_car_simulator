@@ -1,0 +1,30 @@
+Alps to Tokyo Motor Club
+=======================
+
+Extract the entire archive, then open index.html in a current Chrome or Edge.
+The game runs offline and uses WebGL 2. A first drive starts outside the garage in Chamonix.
+Choose Chandru or Lucia with the driver button at the lower left.
+Meet at the garage starts you on foot near the other character. Press F to talk,
+hug, kiss, or ask them to join a drive date. For a date, press E beside the Ferrari,
+Bugatti, or Hummer and wait for them to buckle in. Drive and stop anywhere you like.
+On foot, press F near them again to keep talking or end the date.
+Garage selects your vehicle.
+Follow the Tokyo signs at the village junction and continue over the connector into Tokyo.
+The dog walks along the pavement beside the garage.
+
+Driving
+WASD or arrows: steer, accelerate, brake. Hold S/Down from a stop to reverse.
+Space: handbrake. E: exit at a stop or approach and enter another vehicle.
+V: Chase, Hood, Cabin, and Wide. C: toggle rear-facing view.
+On foot: WASD or arrows to walk, Shift to sprint, mouse drag to orbit.
+Escape: pause or go back. Enter: skip the intro or confirm a showroom bay.
+
+When you walk or drive out of the garage, unoccupied vehicles return to their bays.
+The minimap shows nearby roads and traffic. It can change to a wider view with M.
+Performance, Balanced and High change rendering resolution.
+
+Editable source is in source/. To rebuild game.js from that directory:
+npm install --no-save three@0.180.0 esbuild@0.25.11
+npx esbuild main.js --bundle --minify --outfile=../game.js --format=iife --target=es2022 --legal-comments=eof
+
+The model assets came from the supplied project files. Three.js license is included.
