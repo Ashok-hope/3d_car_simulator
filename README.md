@@ -2,7 +2,6 @@
 
 An offline 3D driving game set across Chamonix and Tokyo. Pick a vehicle from the garage, follow the mountain roads into the city, or start on foot and invite your companion along for a drive.
 
-[Download the game ZIP](https://chatgpt.com/library?file_id=libfile_db9e1ef7a17c8191a819e76f511f91d4)
 
 ## Quick start
 
